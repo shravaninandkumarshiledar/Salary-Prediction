@@ -82,7 +82,7 @@ st.markdown(
     💼 Salary Prediction App
     </h1>
     <p style='text-align:center; font-size: 1.2rem;'>
-        Powered by D05 Batch ML Team
+        Powered by Shravani Nandkumar Shiledar
     </p>
     """,
     unsafe_allow_html=True
@@ -191,4 +191,5 @@ st.markdown(
     <p style='text-align:center; font-size: 0.9rem;'>Created with ❤ in Streamlit</p>
     """,
     unsafe_allow_html=True
+
 )
